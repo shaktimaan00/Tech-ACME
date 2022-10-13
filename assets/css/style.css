@@ -14834,4 +14834,17 @@ div.latest-item .hover-shape-bg {
 .mb-23 {
   margin-bottom: 23px;
 }
-/*# sourceMappingURL=style.css.map */
+
+
+.reg-btn{
+  background: #a3ff12;
+  padding: 10px 20px !important;
+  font-family: "Russo One", sans-serif;
+  color: black;
+}
+
+.raise-new{
+  width: 170px;
+  align-items:center;
+  /* background: red; */
+}
